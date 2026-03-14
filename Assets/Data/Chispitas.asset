@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10bec891dff99754482a99e1f687e7b7, type: 3}
   m_Name: Chispitas
   m_EditorClassIdentifier: Assembly-CSharp::HeroeData
-  nombre: 
+  nombre: Chispitas
   rango: 0
-  costeContratacion: 0
-  fuerza: 0
-  inteligencia: 0
+  costeContratacion: 100
+  fuerza: 10
+  inteligencia: 2

@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b44dbcca574f9be4491e6b77df55bfde, type: 3}
   m_Name: "Gato en el \xC1rbol"
   m_EditorClassIdentifier: Assembly-CSharp::MisionData
-  nombreMision: 
-  tiempoDuracionSegundos: 0
-  requisitoFuerza: 0
-  requisitoInteligencia: 0
-  recompensaDinero: 0
-  recompensaReputacion: 0
+  nombreMision: "Gato en el \xC1rbol"
+  tiempoDuracionSegundos: 15
+  requisitoFuerza: 10
+  requisitoInteligencia: 2
+  recompensaDinero: 30
+  recompensaReputacion: 10
